@@ -1,0 +1,13 @@
+{
+  "name": "ng2-rest-website",
+  "dependencies": {},
+  "globalDependencies": {
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654",
+    "hammerjs": "registry:dt/hammerjs#2.0.4+20160417130828",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160505161446",
+    "lodash": "registry:dt/lodash#3.10.0+20160330154726",
+    "node": "registry:dt/node#6.0.0+20160523035754",
+    "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654",
+    "zone": "github:DefinitelyTyped/DefinitelyTyped/zone/zone.d.ts#31e7317c9a0793857109236ef7c7f223305a8aa9"
+  }
+}

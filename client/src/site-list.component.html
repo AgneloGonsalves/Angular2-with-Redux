@@ -1,0 +1,24 @@
+<article class="template animated slideInRight">
+  <h4>My Sites</h4>
+
+  
+
+      <table  class="table table-striped">
+          <thead>
+              <tr>
+                  <th>Id</th>
+                  <th>Name</th>
+                  <!--<th>Stage</th>-->
+                  <th>Description</th>
+              </tr>
+          </thead>
+          <tbody>
+              <tr *ngFor="let site of filteredSites" classname="">
+                  <td>{{site.id}}</td>
+                  <td>{{site.name}}</td>
+                  <!--<td>{{site.stage}}</td>-->
+                  <td>{{site.description}}</td>
+              </tr>
+          </tbody>
+        </table>
+</article>

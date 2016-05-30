@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "Site 1",
+      "description": "Site 1 Description",
+      "id": 1
+    },
+    {
+      "name": "Site 2",
+      "description": "Site 2 Description",
+      "id": 2
+    },
+    {
+      "name": "Site 3",
+      "description": "Site 3 Description",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Site 4",
+      "description": "Site 4 Description"
+    }
+  ]
+}
